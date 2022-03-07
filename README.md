@@ -1,5 +1,5 @@
 
-#Coco do this after you clone the repo
+# Coco do this after you clone the repo
 - Navigate to the portfoio directory
 - Open a cmd/terminal in the portfolio directory
 - run npm install 
