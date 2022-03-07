@@ -1,4 +1,12 @@
+
+#Coco do this after you clone the repo
+- Navigate to the portfoio directory
+- Open a cmd/terminal in the portfolio directory
+- run npm install 
+- run command npm start
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
