@@ -1,0 +1,28 @@
+.Intro {
+  grid-area: intro;
+  /* background-color: gold; */
+  margin-top: 4rem;
+  padding-left: 1rem;
+}
+.subHeading {
+  --tw-text-opacity: 1;
+  color: rgb(209 213 219 / var(--tw-text-opacity));
+}
+.name {
+  --tw-text-opacity: 1;
+  font-weight: 700;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  margin: 0;
+}
+.subHeading {
+  margin-top: 0.25rem;
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+.introText {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+  margin-top: 1rem;
+}

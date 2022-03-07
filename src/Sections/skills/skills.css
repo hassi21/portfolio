@@ -1,0 +1,52 @@
+
+  
+.Skills {
+  grid-area: skills;
+  padding-left: 1rem;
+  margin: 2em 0 2em 0;
+}
+.skillsHeading {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  font-weight: 700;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.svgs {
+  --tw-text-opacity: 1;
+  color: rgb(203 213 225 / var(--tw-text-opacity));
+}
+.skill {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  --tw-text-opacity: 1;
+  color: rgb(203 213 225 / var(--tw-text-opacity));
+  margin:0;
+}
+
+.skillText {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  border-bottom: 0.1px solid;
+  --tw-border-opacity: 1;
+  border-color: rgb(107 114 128 / var(--tw-border-opacity));
+  margin: 0;
+}
+.skillName {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+  font-family: "Sen", sans-serif;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-bottom-width: 0.1px;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+.skillSection{
+    margin-bottom: 2em;
+}
